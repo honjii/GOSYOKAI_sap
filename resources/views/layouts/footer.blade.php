@@ -1,0 +1,1 @@
+<small>&copy;GOSYOKAI</small>
